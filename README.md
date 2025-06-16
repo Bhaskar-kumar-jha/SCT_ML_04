@@ -4,6 +4,8 @@ This project uses MediaPipe and OpenCV to detect and track hand gestures in vide
 - Gesture_Recognition.ipynb: Main notebook containing the code.
 - hand_tracking_output.mp4: Output video file with hand landmarks (not uploaded due to size, generated after running notebook).
 
+- 📽 Watch the output video on LinkedIn:https://www.linkedin.com/posts/bhaskar-jha-665639327_skillcraft-machinelearning-opencv-activity-7340233572525514752-uetF?utm_source=share&utm_medium=member_android&rcm=ACoAAFJ_a20B3G92yjpXJNHnNbC9p1dJh_p7PSg
+
 ## 🧪 How It Works
 1. Loads an input video file.
 2. Uses MediaPipe to detect hand landmarks.
